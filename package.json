@@ -1,12 +1,16 @@
 {
   "name": "giftjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Implementation of LEA GIFT for IoT in Nodejs",
   "main": "main.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Igor Tomic",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/igortomic99/giftjs.git"
+},
+  "author": "igortomic99",
   "license": "MIT"
 }
