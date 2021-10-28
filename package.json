@@ -1,0 +1,12 @@
+{
+  "name": "giftjs",
+  "version": "1.0.0",
+  "description": "Implementation of LEA GIFT for IoT in Nodejs",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor Tomic",
+  "license": "MIT"
+}
