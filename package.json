@@ -1,6 +1,6 @@
 {
   "name": "giftjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Implementation of LEA GIFT for IoT in Nodejs",
   "main": "main.js",
   "type": "module",
