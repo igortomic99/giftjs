@@ -23,7 +23,7 @@ area-optimised hardware implementations to very fast software implementation on 
    
 ## Usage
 
-Encrypt and decrypt are functions that accept 2 parameters(PLAINTEXT - 128bit hex, KEY - 128bit hex)
+Encrypt and decrypt are functions that accept 2 parameters(PLAINTEXT - 128bit hex, KEY - 128bit hex).
 Both functions permute PLAINTEXT variable.
 ```js
 import { encrypt , decrypt } from 'giftjs';
