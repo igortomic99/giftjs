@@ -1,7 +1,7 @@
 ## GIFTjs
 
 Lightweight node module for data encryption and decryption using lightweight encryption algorithm GIFT-128.
-This is Nodejs adaptation of [GIFT-128 C implementation](https://giftcipher.github.io/gift/) for the purpose of its future implementation in IoT.
+This is Nodejs adaptation of [GIFT-128 C implementation](https://github.com/giftcipher/gift) for the purpose of its future implementation in IoT.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
