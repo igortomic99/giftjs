@@ -63,7 +63,6 @@ Project Link: [https://github.com/igortomic99/giftjs.git](https://github.com/igo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [GIFT C implementation](https://github.com/giftcipher/gift)
 * [GIFT: A Small Present
 Towards Reaching the Limit of Lightweight Encryption](https://eprint.iacr.org/2017/622.pdf)
 * [GIFT Ciphers project](https://giftcipher.github.io/gift/)
